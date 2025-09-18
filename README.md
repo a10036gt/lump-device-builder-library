@@ -540,6 +540,17 @@ However, the library is designed to be compatible with any board that has a UART
     <tr>
       <td>Arduino Pro Mini</td>
     </tr>
+        <tr>
+      <td>MATRIX Mini R4</td>
+      <td rowspan="2">Renesas RA4M1</td>
+      <td rowspan="2">
+        <a href="https://github.com/devilhyt/lump-device-builder-library/wiki/Additional-Configuration-for-MCUs#renesas-ra4m1">Yes</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Arduino UNO R4</td>
+    </tr>
+
   </tbody>
 </table>
 
